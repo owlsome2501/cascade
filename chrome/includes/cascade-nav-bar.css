@@ -35,6 +35,9 @@
 #urlbar[open]
   > #urlbar-background { background: var(--toolbar-field-background-color) !important; }
 
+#urlbar[open] {
+  margin-top: 3px !important;
+}
 
 .urlbarView-row:hover
   > .urlbarView-row-inner,

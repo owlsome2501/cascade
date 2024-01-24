@@ -81,7 +81,7 @@
   /*  Firefox can be a little wonky with the vertical
    *  URL Bar placement. Change this variable to adapt
    *  to this when necessary.
-   */ --uc-urlbar-top-spacing: 1px;
+   */ --uc-urlbar-top-spacing: 0px;
 
 }
 
@@ -106,7 +106,7 @@
 #urlbar-go-button { display: none !important; }
 
 /* Hides the Extensions Menu Icon */
-#unified-extensions-button { display: none !important; }
+/* #unified-extensions-button { display: none !important; } */
 
 
 
